@@ -31,7 +31,7 @@ window.alert("Hi User");
 // a = 20;
 // console.log(a);
 
-//one variable name use to two var variable exccess
+//same variable name use a two variable accessvar a = 10;
 var a = 10;
 console.log(a);
 var a = 20;
