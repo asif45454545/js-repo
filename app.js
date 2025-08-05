@@ -1,5 +1,5 @@
 alert("wellcome to JavaScript");
-//   alert box 
+//   alert box use this code
 window.alert("Hi User");
 
 //variable use to var 
@@ -13,7 +13,13 @@ window.alert("Hi User");
 // console.log(a+b);
 
 //variable use to var addition and subtraction
+// var a = 10;
+// var b = 20;
+// var c = 5;
+// console.log((a+b)-c);
+
 var a = 10;
 var b = 20;
 var c = 5;
-console.log((a+b)-c);
+var d = 30;
+console.log(a+(b-c)*d);
