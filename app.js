@@ -31,7 +31,7 @@ window.alert("Hi User");
 // a = 20;
 // console.log(a);
 
-//two variable call one Name
+//one variable name use to two var variable exccess
 var a = 10;
 console.log(a);
 var a = 20;
