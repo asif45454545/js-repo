@@ -18,8 +18,21 @@ window.alert("Hi User");
 // var c = 5;
 // console.log((a+b)-c);
 
+//variable use to var addition subtraction and Multiple
+// var a = 10;
+// var b = 20;
+// var c = 5;
+// var d = 30;
+// console.log(a+(b-c)*d);
+
+//variable resign to value
+// var a = 10;
+// console.log(a);
+// a = 20;
+// console.log(a);
+
+//two variable call one Name
 var a = 10;
-var b = 20;
-var c = 5;
-var d = 30;
-console.log(a+(b-c)*d);
+console.log(a);
+var a = 20;
+console.log(a);
